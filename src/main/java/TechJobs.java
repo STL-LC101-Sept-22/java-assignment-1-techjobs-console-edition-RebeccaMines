@@ -105,7 +105,6 @@ public class TechJobs {
                 }
             }
 
-
             // Validate user's input
             if (choiceIdx < 0 || choiceIdx >= choiceKeys.length) {
                 System.out.println("Invalid choice. Try again.");
